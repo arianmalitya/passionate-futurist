@@ -438,26 +438,49 @@
         animation: fadeIn 1s ease forwards;
         }   
 
-        .vfdfnhfdbf55d
-        {
-
+        .texttt555 img {
+       width: 418px !important;
+        height: 430px;
+        margin-top: -442px;
+        margin-left: 210px;
         }
     }
 
 
 
-@media only screen and (max-width:581px)
+@media only screen and (max-width:540px)
 {
     .btn126{
         margin-left: 0 !important;
     }
+
+     .texttt555 img {
+       width: 347px !important;
+        height: 381px;
+        margin-top: -388px;
+        margin-left: 199px;
+    }
 }
 
 
-@media only screen and (max-width:538px)
+@media only screen and (max-width:430px)
 {
     .sdcsdfeewwwww ul{
         display: block;
+    }
+     .dbfghsdf img {
+        width: 99% !important;
+        height: 75% !important;
+    }
+    .dgndfgdfgdf{
+        height: 95%;
+        width: 100%;
+    }
+    .texttt555 img {
+      width: 301px !important;
+        height: 292px;
+        margin-top: -315px;
+        margin-left: 147px;
     }
 }
 
@@ -475,6 +498,20 @@
     }
     .fhgdfg h2 {
         font-size:35px;
+    }
+    .dbfghsdf img {
+        width: 99% !important;
+        height: 75% !important;
+    }
+    .dgndfgdfgdf{
+        height: 95%;
+        width: 90%;
+    }
+    .texttt555 img {
+      width: 301px !important;
+        height: 292px;
+        margin-top: -311px;
+        margin-left: 92px;
     }
 
 }
@@ -495,6 +532,49 @@
      .btn126
     {
         padding:14px 10px;
+    }
+    .dbfghsdf img {
+        width: 99% !important;
+        height: 75% !important;
+    }
+    .dgndfgdfgdf{
+        height: 95%;
+        width: 90%;
+    }
+    .texttt555 img {
+      width: 298px !important;
+        height: 293px;
+        margin-top: -297px;
+        margin-left: 81px;
+    }
+}
+
+@media only screen and (max-width: 321px) {
+    .dbfghsdf img {
+        width: 99% !important;
+        height: 75% !important;
+    }
+    .dgndfgdfgdf{
+        height: 95%;
+        width: 90%;
+    }
+    .texttt555 img {
+      width: 247px !important;
+        height: 270px;
+        margin-top: -269px;
+        margin-left: 78px;
+    }
+}
+@media only screen and (max-width: 280px) {
+    .dbfghsdf img {
+        width: 99% !important;
+        height: 75% !important;
+    }
+    .texttt555 img {
+      width: 200px !important;
+        height: 223px;
+        margin-top: -229px;
+        margin-left: 71px;
     }
 }
 

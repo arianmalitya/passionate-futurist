@@ -755,6 +755,47 @@
     {
         padding:10px;
     }
+
+      .lbscimg1{
+    width: 32vw !important;
+    top: 48.5% !important;
+    left: 3% !important;
+  }
+  .lbscimg2{
+    width: 32vw !important;
+    top: 49% !important;
+    right: 2.7% !important;
+  }
+  .lbscimg3{
+    width: 32vw !important;
+    bottom: 31.8% !important;
+    left: 11% !important;
+  }
+  .lbscimg4{
+    width: 32vw !important;
+    bottom: 31.5% !important;
+    right: 7.5% !important;
+  }
+  .RIMGGG1 .RIMGG1{
+    width: 24vw !important;
+    right: 22.5% !important;
+    top: 6% !important;
+  }
+  .RIMGGG2 .RIMGG2{
+    width: 24vw !important;
+    right: 22% !important;
+    top: 28.2% !important;
+  }
+  .RIMGGG3 .RIMGG3{
+    width: 29vw !important;
+    right: 17% !important;
+    bottom: 31% !important;
+  }
+  .RIMGGG4 .RIMGG4{
+    width: 17vw !important;
+    right: 30.5% !important;
+    bottom: 12% !important;
+  }
 }
 
 
@@ -766,12 +807,57 @@
     }
 }
 
+@media only screen and (max-width:541px){
+  .lbscimg1{
+    top: 50% !important;
+  }
+  .lbscimg2{
+    top: 50.5% !important;
+    right: 3.4% !important;
+  }
+  .lbscimg3{
+    bottom: 32.3% !important;
+    left: 10.5% !important;
+  }
+  .lbscimg4{
+    bottom: 32% !important;
+  }
+}
 
-@media only screen and (max-width:538px)
+
+@media only screen and (max-width:431px)
 {
     .sdcsdfeewwwww ul{
         display: block;
     }
+      .lbscimg1{
+    top: 50.5% !important;
+  }
+  .lbscimg2{
+    top: 51% !important;
+    right: 3% !important;
+  }
+  .lbscimg3{
+    bottom: 35.2% !important;
+    left: 10.3% !important;
+  }
+  .lbscimg4{
+    bottom: 35% !important;
+  }
+  .RIMGGG1 .RIMGG1{
+    right: 22% !important;
+  }
+  .RIMGGG2 .RIMGG2{
+    right: 21.5% !important;
+    top: 26.4% !important;
+  }
+  .RIMGGG3 .RIMGG3{
+    right: 16.4% !important;
+    bottom: 29.5% !important;
+  }
+  .RIMGGG4 .RIMGG4{
+    right: 29.5% !important;
+  }
 }
 
 
@@ -788,6 +874,19 @@
     }
     .fhgdfg h2 {
         font-size:35px;
+    }
+    .lbscimg1{
+    left: 2.5% !important;
+    }
+    .lbscimg2{
+      right: 2.7% !important;
+    }
+    .lbscimg3{
+      bottom: 36.6% !important;
+      left: 10.2% !important;
+    }
+    .lbscimg4{
+      bottom: 36.3% !important;
     }
 
 }
@@ -809,7 +908,64 @@
     {
         padding:14px 10px;
     }
+
+      .lbscimg1{
+        top: 54% !important;
+      }
+      .lbscimg2{
+        top: 54.5% !important;
+        right: 2.6% !important;
+      }
+      .lbscimg3{
+        bottom: 33.7% !important;
+        left: 10.3% !important;
+      }
+      .lbscimg4{
+        bottom: 33.3% !important;
+      }
+      .RIMGGG1 .RIMGG1{
+        right: 21.5% !important;
+      }
+      .RIMGGG2 .RIMGG2{
+        right: 21% !important;
+        top: 26.1% !important;
+      }
+      .RIMGGG3 .RIMGG3{
+        right: 15.8% !important;
+      }
 }
+
+
+@media only screen and (max-width:321px){
+  .lbscimg1{
+    top: 60.5% !important;
+  }
+  .lbscimg2{
+    top: 60.9% !important;
+    right: 2.3% !important;
+  }
+  .lbscimg3{
+    bottom: 28.9% !important;
+    left: 10.4% !important;
+  }
+  .lbscimg4{
+    bottom: 28.7% !important;
+  }
+  .RIMGGG1 .RIMGG1{
+    right: 21.3% !important;
+  }
+  .RIMGGG2 .RIMGG2{
+    right: 20.7% !important;
+    top: 26.6% !important;
+  }
+  .RIMGGG3 .RIMGG3{
+    right: 15.5% !important;
+  }
+}
+
+
+
+
 
 /* Nisha css start */
 .lbscimg1{

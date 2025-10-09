@@ -123,25 +123,25 @@ export const Template35 = ({ serviceResponse, slug }) => {
                       </div>
 
                       <div className={`${styles.oimdoijarer} row position-absolute`}>
-                        <div className="col-lg-3">
+                        <div className="col-3">
                           <div className={styles.dijkmifjrwet}>
                             <img src="./images/Video Sharing Services (1).png" data-aos="fade-right" alt="" />
                           </div>
                         </div>
 
-                        <div className="col-lg-3 mt-5">
+                        <div className="col-3 mt-5">
                           <div className={styles.dijkmifjrwet}>
                             <img src="./images/Video Sharing Services (2).png" data-aos="fade-up-right" alt="" />
                           </div>
                         </div>
 
-                        <div className="col-lg-3 mt-5">
+                        <div className="col-3 mt-5">
                           <div className={styles.dijkmifjrwet}>
                             <img src="./images/Video Sharing Services (3).png" data-aos="fade-up-left" alt="" />
                           </div>
                         </div>
 
-                        <div className="col-lg-3">
+                        <div className="col-3">
                           <div className={styles.dijkmifjrwet}>
                             <img src="./images/Video Sharing Services (4).png" data-aos="fade-up-left" alt="" />
                           </div>

@@ -957,23 +957,186 @@
     {
         padding:10px;
     }
+
+       .btn125
+    {
+        padding:14px 20px;
+    }
+    
+     .btn126
+    {
+        padding:14px 20px;
+    }
+    
+    .custom-container,
+    .container-grid,
+    .custom-container10
+    {
+        width:90% !important;
+    }
+    
+    .dsfbsdf
+    {
+        margin-bottom:20px;
+    }
+    .fbgfjhg
+    {
+        margin-bottom:25px;
+    }
+    .vgbfdf
+    {
+        padding:10px;
+    }
+    .RR1 .RRimg1{
+        left: 14% !important;
+        top: 52% !important;
+        width:24vw !important;
+    }
+   .RR4 .RRimg4{
+        right: 14% !important;
+        top: 52% !important;
+        width: 23vw !important;
+    }
+   .RR2 .RRimg2 {
+       bottom: 14% !important;
+        left: 6% !important;
+        width: 19vw !important;
+}
+.RR5 .RRimg5 {
+        bottom: 14% !important;
+        right: 7% !important;
+        width: 19vw !important;
+    }
+    .RR3 .RRimg3 {
+        bottom: -15px !important;
+        left: 17% !important;
+        width: 21vw !important;
+    }
+        .RR6 .RRimg6{
+       bottom: 0% !important;
+        right: 14% !important;
+        width: 20vw !important;
+    }
+    .tmspic1{
+        left: 14% !important;
+        top: 60% !important;
+        width: 31vw !important;
+    }
+        .tmspic2{
+        right: 5% !important;
+        top: 61% !important;
+        width: 31vw !important;
+    }
+        .tmspic3{
+        right: 6% !important;
+        top: 78% !important;
+        width: 31vw !important;
+    }
+        .tmspic4 {
+        bottom: 7% !important;
+        right: 7% !important;
+        width: 31vw !important;
+    }
+
 }
 
 
 
-@media only screen and (max-width:581px)
+@media only screen and (max-width:540px)
 {
     .btn126{
         margin-left: 0 !important;
     }
+     .RR1 .RRimg1 {
+        left: 14% !important;
+        top: 55% !important;
+        width: 24vw !important;
+    }
+     .RR4 .RRimg4 {
+        right: 14% !important;
+        top: 55% !important;
+        width: 23vw !important;
+    }
+        .tmspic1 {
+        left: 14% !important;
+        top: 62% !important;
+        width: 32vw !important;
+    }
+        .tmspic2{
+        right: 14% !important;
+        top: 63% !important;
+        width: 31vw !important;
+    }
+        .tmspic4 {
+        bottom: 7% !important;
+        right: 8% !important;
+        width: 31vw !important;
+    }
+        .tmspic3{
+        right: 7% !important;
+        top: 79% !important;
+        width: 31vw !important;
+    }
+
 }
 
 
-@media only screen and (max-width:538px)
+@media only screen and (max-width:430px)
 {
     .sdcsdfeewwwww ul{
         display: block;
     }
+    .RR1 .RRimg1 {
+        left: 14% !important;
+        top: 62% !important;
+        width: 24vw !important;
+    }
+        .RR4 .RRimg4{
+        right: 12% !important;
+        top: 62% !important;
+        width: 22vw !important;
+    }
+    .RR2 .RRimg2{
+        bottom: 13% !important;
+        left: 6% !important;
+        width: 19vw !important;
+    }
+        .RR5 .RRimg5 {
+        bottom: 12% !important;
+        right: 6% !important;
+        width: 19vw !important;
+    }
+        .RR3 .RRimg3 {
+        bottom: 1px !important;
+        left: 15% !important;
+        width: 21vw !important;
+    }
+        .RR6 .RRimg6{
+        bottom: 1% !important;
+        right: 13% !important;
+        width: 20vw !important;
+    }
+        .tmspic1{
+        left: 14% !important;
+        top: 71% !important;
+        width: 32vw !important;
+    }
+    .tmspic2{
+        right: 6% !important;
+        top: 71% !important;
+        width: 31vw !important;
+    }
+    .tmspic3{
+        right: 6% !important;
+        top: 82% !important;
+        width: 31vw !important;
+    }
+        .tmspic4{
+        bottom: 6% !important;
+        right: 8% !important;
+        width: 31vw !important;
+    }
+
 }
 
 
@@ -991,6 +1154,59 @@
     .fhgdfg h2 {
         font-size:35px;
     }
+       .btn125
+    {
+        padding:14px 12px;
+    }
+    
+     .btn126
+    {
+        padding:14px 12px;
+    }
+    .fhgdfg h2 {
+        font-size:35px;
+    }
+        .RR1 .RRimg1{
+        left: 14% !important;
+        top: 63% !important;
+        width: 24vw !important;
+    }
+        .RR4 .RRimg4 {
+        right: 12% !important;
+        top: 63% !important;
+        width: 22vw !important;
+    }
+        .RR3 .RRimg3 {
+        bottom: 3px !important;
+        left: 15% !important;
+        width: 21vw !important;
+    }
+        .RR6 .RRimg6 {
+        bottom: 2% !important;
+        right: 13% !important;
+        width: 20vw !important;
+    }
+    .tmspic1 {
+        left: 14% !important;
+        top: 73% !important;
+        width: 32vw !important;
+    }
+        .tmspic2{
+        right: 6% !important;
+        top: 73% !important;
+        width: 29vw !important;
+    }
+    .tmspic3{
+        left: 7% !important;
+        top: 84% !important;
+        width: 31vw !important;
+    }
+    .tmspic4 {
+        bottom: 5% !important;
+        right: 8% !important;
+        width: 31vw !important;
+    }
+
 
 }
 
@@ -1010,6 +1226,127 @@
      .btn126
     {
         padding:14px 10px;
+    }
+
+      .RR1 .RRimg1 {
+        left: 14% !important;
+        top: 66% !important;
+        width: 24vw !important;
+    }
+        .RR4 .RRimg4{
+        right: 13% !important;
+        top: 66% !important;
+        width: 22vw !important;
+    }
+        .RR2 .RRimg2{
+        bottom: 12% !important;
+        left: 6% !important;
+        width: 19vw !important;
+    }
+        .RR6 .RRimg6{
+        bottom: 2% !important;
+        right: 14% !important;
+        width: 20vw !important;
+    }
+        .tmspic2 {
+        right: 6% !important;
+        top: 74% !important;
+        width: 29vw !important;
+    }
+        .tmspic1 {
+        left: 14% !important;
+        top: 73.5% !important;
+        width: 32vw !important;
+    }
+
+}
+
+@media only screen and (max-width:321px){
+  .RR1 .RRimg1{
+        left: 14% !important;
+        top: 75% !important;
+        width: 24vw !important;
+    }
+        .RR4 .RRimg4 {
+        right: 13% !important;
+        top: 75% !important;
+        width: 22vw !important;
+    }
+        .RR2 .RRimg2 {
+        bottom: 9% !important;
+        left: 6% !important;
+        width: 19vw !important;
+    }
+   .RR5 .RRimg5{
+        bottom: 8.5% !important;
+        right: 8% !important;
+        width: 19vw !important;
+    } 
+        .RR6 .RRimg6 {
+        bottom: 1% !important;
+        right: 13% !important;
+        width: 20vw !important;
+    }
+    .tmspic1{
+        left: 14% !important;
+        top: 79.5% !important;
+        width: 32vw !important;
+    }
+        .tmspic2 {
+        right: 6% !important;
+        top: 80% !important;
+        width: 29vw !important;
+    }
+     .tmspic3{
+        left: 7% !important;
+        top: 87% !important;
+        width: 31vw !important;
+    }
+
+
+
+}
+@media only screen and (max-width:281px){
+  .RR1 .RRimg1{
+        left: 14% !important;
+        top: 78% !important;
+        width: 24vw !important;
+    }
+        .RR4 .RRimg4{
+        right: 13% !important;
+        top: 78% !important;
+        width: 22vw !important;
+    }
+        .RR2 .RRimg2{
+        bottom: 8% !important;
+        left: 6% !important;
+        width: 19vw !important;
+
+}
+    .RR5 .RRimg5{
+        bottom: 7.5% !important;
+        right: 8% !important;
+        width: 19vw !important;
+    }
+        .tmspic1{
+        left: 14% !important;
+        top: 83.5% !important;
+        width: 32vw !important;
+    }
+    .tmspic2{
+        right: 6% !important;
+        top: 84% !important;
+        width: 28vw !important;
+    }
+        .tmspic3 {
+        left: 7% !important;
+        top: 89% !important;
+        width: 31vw !important;
+    }
+    .tmspic4{
+        bottom: 4% !important;
+        right: 8% !important;
+        width: 31vw !important;
     }
 }
 

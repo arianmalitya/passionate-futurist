@@ -876,6 +876,27 @@
     }
 }
 
+@media only screen and (max-width:801px) {
+  .insta1 {
+    position: absolute;
+    width: 7vw !important;
+    top: 50vw;
+    left: 71vw;
+  }
+
+  .insta3 {
+    position: absolute;
+    width: 13vw !important;
+    top: 69vw;
+    left: 81vw;
+  }
+
+  .btn125
+  {
+    margin-right:10px;
+  }
+}
+
 
 
 @media only screen and (max-width:600px)
@@ -909,23 +930,63 @@
     {
         padding:10px;
     }
+     .insta1 {
+      position: absolute;
+      width: 7vw !important;
+      top: 72vw;
+      left: 71vw;
+    }
+
+    .insta3 {
+      position: absolute;
+      width: 13vw !important;
+      top: 91vw;
+      left: 81vw;
+    }
 }
 
 
 
-@media only screen and (max-width:581px)
+@media only screen and (max-width:541px)
 {
     .btn126{
         margin-left: 0 !important;
     }
+
+    .insta1 {
+    position: absolute;
+    width: 7.2vw !important;
+    top: 78vw;
+    left: 70vw;
+  }
+
+  .insta3 {
+    position: absolute;
+    width: 14vw !important;
+    top: 97vw;
+    left: 81vw;
+  }
 }
 
 
-@media only screen and (max-width:538px)
+@media only screen and (max-width:430px)
 {
     .sdcsdfeewwwww ul{
         display: block;
     }
+     .insta1 {
+    position: absolute;
+    width: 7vw !important;
+    top: 100vw;
+    left: 70vw;
+  }
+
+  .insta3 {
+    position: absolute;
+    width: 13vw !important;
+    top: 119vw;
+    left: 81vw;
+  }
 }
 
 
@@ -943,6 +1004,19 @@
     .fhgdfg h2 {
         font-size:35px;
     }
+     .insta1 {
+        position: absolute;
+        width: 8vw !important;
+        top: 118vw;
+        left: 70vw;
+      }
+
+      .insta3 {
+        position: absolute;
+        width: 15vw !important;
+        top: 136vw;
+        left: 81vw;
+      }
 
 }
 
@@ -963,6 +1037,65 @@
     {
         padding:14px 10px;
     }
+
+     .insta1 {
+      position: absolute;
+      width: 8vw !important;
+      top: 123vw;
+      left: 70vw;
+    }
+
+    .insta3 {
+      position: absolute;
+      width: 14vw !important;
+      top: 142vw;
+      left: 81vw;
+    }
+  }
+
+  @media only screen and (max-width:360px) 
+  {
+   .btn125
+  {
+    margin-bottom:30px !important;
+  }
+
+  }
+
+
+@media only screen and (max-width:321px) {
+  .insta1 {
+    position: absolute;
+    width: 7.5vw !important;
+    top: 156vw;
+    left: 70vw;
+  }
+
+  .insta3 {
+    position: absolute;
+    width: 14vw !important;
+    top: 175vw;
+    left: 81vw;
+  }
+
+}
+@media only screen and (max-width:281px) {
+  .insta1 {
+    position: absolute;
+    width: 7.5vw !important;
+    top: 185vw;
+    left: 70vw;
+  }
+
+  .insta3 {
+    position: absolute;
+    width: 14vw !important;
+    top: 204vw;
+    left: 81vw;
+  } 
+
+
+
 }
 
 /*nisha starttttt*/

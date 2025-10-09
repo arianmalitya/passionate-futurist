@@ -205,6 +205,8 @@
 
 .dbfghsdf{
   position: relative;
+  display: inline-flex;
+  /* margin-left: -10%; */
 }
 .titli1 .pikachu1{
   position: absolute;
@@ -855,95 +857,479 @@
 }
 
 
+@media only screen and (max-width:600px) {
+  .btn125 {
+    padding: 14px 20px;
+  }
 
-@media only screen and (max-width:600px)
-{
-     .btn125
-    {
-        padding:14px 20px;
-    }
-    
-     .btn126
-    {
-        padding:14px 20px;
-    }
-    
-    .custom-container,
-    .container-grid,
-    .custom-container10
-    {
-        width:90% !important;
-    }
-    
-    .dsfbsdf
-    {
-        margin-bottom:20px;
-    }
-    .fbgfjhg
-    {
-        margin-bottom:25px;
-    }
-    .vgbfdf
-    {
-        padding:10px;
-    }
+  .btn126 {
+    padding: 14px 20px;
+  }
+
+  .custom-container,
+  .container-grid,
+  .custom-container10 {
+    width: 90% !important;
+  }
+
+  .dsfbsdf {
+    margin-bottom: 20px;
+  }
+
+  .fbgfjhg {
+    margin-bottom: 25px;
+  }
+
+  .vgbfdf {
+    padding: 10px;
+  }
+
+  .pikachu2 {
+    left: 129px !important;
+    top: 434px !important;
+  }
+
+  .pikachu1 {
+    top: 358px !important;
+    left: 214px !important;
+  }
+
+  .facebook {
+    position: relative;
+    top: -21rem !important;
+    left: -4rem !important;
+  }
+
+  .pikachu4 {
+    top: 108px !important;
+   
+  }
+
+  .pikachu3 {
+    top: 102px !important;
+  }
+
+  .pikachu5 {
+    top: 143px !important;
+  }
+
+  .pikachu6 {
+    top: 179px !important;
+  }
+
+  .pikachu8 {
+    top: 175px !important;
+  }
+
+  .pikachu9 {
+    top: 140px !important;
+  }
+
+  .titli1 .pikachu1{
+  position: absolute;
+  width: 11%;
+  top: 30px;
+  /* left: 291px; */
+}
+.titli2 .pikachu2{
+  position: absolute;
+  width: 15%;
+  top: 111px;
+  /* left: 200px; */
+}
+.titli3 .pikachu3{
+  position: absolute;
+  width: 7%;
+  top: 126px;
+  left: 355px;
+}
+.titli4 .pikachu4{
+  position: absolute;
+  width: 40%;
+  top: 128px;
+  left: 401px;
+}
+
+.titli9 .pikachu9{
+  position: absolute;
+  width: 7%;
+  top: 160px;
+  left: 355px;
+}
+.titli8 .pikachu8{
+  position: absolute;
+  width: 7%;
+  top: 196px;
+  left: 355px;
+}
+.titli5 .pikachu5{
+  position: absolute;
+  width: 32%;
+  top: 163px;
+  left: 396px;
+}
+.titli6 .pikachu6{
+  position: absolute;
+  width: 38%;
+  top: 199px;
+  left: 390px;
+}
+
 }
 
 
 
-@media only screen and (max-width:581px)
-{
-    .btn126{
-        margin-left: 0 !important;
-    }
+@media only screen and (max-width:581px) {
+  .btn126 {
+    margin-left: 0 !important;
+  }
+}
+
+@media only screen and (max-width:541px) {
+
+  .pikachu2 {
+    top: 78vw !important;
+    left: 21vw !important;
+  }
+
+  .pikachu1 {
+    top: 66vw !important;
+    left: 36vw !important;
+  }
+
+  .facebook {
+    top: -58vw !important;
+    left: -16vw !important;
+  }
+}
+@media only screen and (max-width:431px) {
+
+  .pikachu2 {
+    top: 100vw !important;
+    left: 21vw !important;
+  }
+
+  .pikachu1 {
+    top: 87vw !important;
+    left: 36vw !important;
+    width: 11vw !important;
+  }
+
+  .facebook {
+    top: -63vw !important;
+    left: -35vw !important;
+  }
+
+  .pikachu4 {
+    top: 105px !important;
+  }
+
+  .pikachu3 {
+    top: 102px !important;
+  }
+
+  .pikachu5 {
+    top: 131px !important;
+  }
+
+  .pikachu6 {
+    top: 158px !important;
+  }
+
+  .pikachu8 {
+    top: 156px !important;
+  }
+
+  .pikachu9 {
+    top: 128px !important;
+  }
+
+    .titli1 .pikachu1{
+  position: absolute;
+  width: 11%;
+  top: 30px;
+  /* left: 291px; */
+}
+.titli2 .pikachu2{
+  position: absolute;
+  width: 15%;
+  top: 111px;
+  /* left: 200px; */
+}
+.titli3 .pikachu3{
+  position: absolute;
+  width: 7%;
+  top: 126px;
+  left: 200px;
+}
+.titli4 .pikachu4{
+  position: absolute;
+  width: 40%;
+  top: 128px;
+  left: 229px;
+}
+
+.titli9 .pikachu9{
+  position: absolute;
+  width: 7%;
+  top: 160px;
+  left: 200px;
+}
+.titli8 .pikachu8{
+  position: absolute;
+  width: 7%;
+  top: 196px;
+  left: 200px;
+}
+.titli5 .pikachu5{
+  position: absolute;
+  width: 32%;
+  top: 163px;
+  left: 229px;
+}
+.titli6 .pikachu6{
+  position: absolute;
+  width: 38%;
+  top: 199px;
+  left: 229px;
+}
+
+}
+
+@media only screen and (max-width:394px) {
+  .btn125 {
+    padding: 14px 12px;
+  }
+
+  .btn126 {
+    padding: 14px 12px;
+  }
+
+  .fhgdfg h2 {
+    font-size: 35px;
+  }
+
+  .pikachu2 {
+    top: 125vw !important;
+    left: 21vw !important;
+  }
+
+  .pikachu1 {
+    top: 112vw !important;
+    left: 36vw !important;
+    width: 11vw !important;
+  }
+
+  .facebook {
+    top: -63vw !important;
+    left: -45vw !important;
+  }
+
+  .pikachu4 {
+    top: 105px !important;
+  }
+
+  .pikachu3 {
+    top: 102px !important;
+  }
+
+  .pikachu5 {
+    top: 131px !important;
+  }
+
+  .pikachu6 {
+    top: 158px !important;
+  }
+
+  .pikachu8 {
+    top: 156px !important;
+  }
+
+  .pikachu9 {
+    top: 128px !important;
+  }
+
+
 }
 
 
-@media only screen and (max-width:538px)
-{
-    .sdcsdfeewwwww ul{
-        display: block;
-    }
+@media only screen and (max-width:376px) {
+  h2 {
+    font-size: 30px !important;
+  }
+
+  .btn125 {
+    padding: 14px 10px;
+  }
+
+  .btn126 {
+    padding: 14px 10px;
+  }
+
+  .pikachu2 {
+    top: 130vw !important;
+    left: 21vw !important;
+  }
+
+  .pikachu1 {
+    top: 117vw !important;
+    left: 36vw !important;
+    width: 11vw !important;
+  }
+
+  .facebook {
+    top: -63vw !important;
+    left: -50vw !important;
+  }
+
+  .pikachu4 {
+    top: 105px !important;
+    left: 102vw !important;
+  }
+
+  .pikachu3 {
+    top: 102px !important;
+  }
+
+  .pikachu5 {
+    top: 131px !important;
+    left: 102vw !important;
+  }
+
+  .pikachu6 {
+    top: 158px !important;
+    left: 101vw !important;
+  }
+
+  .pikachu8 {
+    top: 156px !important;
+  }
+
+  .pikachu9 {
+    top: 128px !important;
+  }
+
+  .fasimg2 {
+    left: -1vw !important;
+  }
+
+  .fasimg3 {
+    left: 72vw !important;
+  }
 }
 
+@media only screen and (max-width:320px) {
 
-@media only screen and (max-width:393px)
-{
-       .btn125
-    {
-        padding:14px 12px;
-    }
-    
-     .btn126
-    {
-        padding:14px 12px;
-    }
-    .fhgdfg h2 {
-        font-size:35px;
-    }
+  .pikachu2 {
+    top: 164vw !important;
+    left: 21vw !important;
+  }
 
+  .pikachu1 {
+    top: 151vw !important;
+    left: 36vw !important;
+    width: 11vw !important;
+  }
+
+  .facebook {
+    top: -71vw !important;
+    left: -48vw !important;
+  }
+
+  .pikachu4 {
+    top: 105px !important;
+    left: 102vw !important;
+  }
+
+  .pikachu3 {
+    top: 102px !important;
+    left: 95vw !important;
+  }
+
+  .pikachu5 {
+    top: 131px !important;
+    left: 102vw !important;
+  }
+
+  .pikachu6 {
+    top: 158px !important;
+    left: 101vw !important;
+  }
+
+  .pikachu8 {
+    top: 156px !important;
+    left: 95vw !important;
+  }
+
+  .pikachu9 {
+    top: 128px !important;
+    left: 95vw !important;
+  }
+
+  .fasimg2 {
+    left: -3vw !important;
+  }
+
+  .fasimg3 {
+    left: 73vw !important;
+  }
 }
+@media only screen and (max-width:280px) {
 
+  .pikachu2 {
+    top: 194vw !important;
+    left: 21vw !important;
+  }
 
-@media only screen and (max-width:375px)
-{
-    h2 
-    {
-        font-size:30px !important;
-    }
-    
-       .btn125
-    {
-        padding:14px 10px;
-    }
-    
-     .btn126
-    {
-        padding:14px 10px;
-    }
+  .pikachu1 {
+    top: 181vw !important;
+    left: 36vw !important;
+    width: 11vw !important;
+  }
+
+  .facebook {
+    top: -76vw !important;
+    left: -48vw !important;
+  }
+
+  .pikachu4 {
+    top: 105px !important;
+    left: 102vw !important;
+  }
+
+  .pikachu3 {
+    top: 102px !important;
+    left: 95vw !important;
+  }
+
+  .pikachu5 {
+    top: 126px !important;
+    left: 102vw !important;
+  }
+
+  .pikachu6 {
+    top: 146px !important;
+    left: 101vw !important;
+  }
+
+  .pikachu8 {
+    top: 145px !important;
+    left: 95vw !important;
+  }
+
+  .pikachu9 {
+    top: 124px !important;
+    left: 95vw !important;
+  }
+
+  .fasimg2 {
+    left: -3vw !important;
+  }
+
+  .fasimg3 {
+    left: 73vw !important;
+  }
 }
-
-
 
 /*nisha startt*/
 
