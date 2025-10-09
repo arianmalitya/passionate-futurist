@@ -71,6 +71,8 @@ export const Template6 = ({ serviceResponse, slug }) => {
                         </div>
                     </div>
 
+                    
+
                     <div className={`${styles.dbfghsdf} col-lg-6 position-relative row`}>
                         {serviceResponse.data?.banner_image && (
                             <img
